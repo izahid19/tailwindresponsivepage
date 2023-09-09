@@ -8,7 +8,7 @@ function App() {
 
   return (
     <>
-      <div className="min-h-screen px-6 py-3 bg-amber-50">
+      <div className="min-h-screen px-6 py-3 bg-amber-50 flex flex-col gap-16">
       <Header/>
       <Body/>
       <Footer/>
